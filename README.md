@@ -1,2 +1,3 @@
-# MLOps-Practical-1
-RS: Reproducibility &amp; Model Deployment — MSc, Tilburg University
+# MLOps Practical 1
+This is my first GitHub repository for the Reproducibility & Model Deployment course.  
+Author: Zana Udo
